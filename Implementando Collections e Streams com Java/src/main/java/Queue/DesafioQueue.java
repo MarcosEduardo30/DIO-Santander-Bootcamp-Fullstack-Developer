@@ -26,8 +26,16 @@ public class DesafioQueue {
 
         //Adicionando um novo elemento e verificando sua posição
         nomes.add("Daniel");
-        //Não consegui no momento achar uma solução para o retorno de um index dentro de um linked list. Volto aqui mais tarde.
-        
+        int cont = 0;
+        for (String n : nomes){
+            if (n.equals("Daniel")){
+                System.out.println("O Daniel está na posição: " + cont);
+            } else {
+                cont++;
+            }
+        }
+
+
         //Retornando o tamanho da lista
         System.out.println("O tamanho da lista é: " + nomes.size());
 

@@ -10,3 +10,11 @@ Queue/TesteLikendList.java
  Queue.TesteLikendList
 Queue/DesafioQueue.java
  Queue.DesafioQueue
+Set/TesteLinkedHashSet.java
+ Set.TesteLinkedHashSet
+Set/TesteHashSet.java
+ Set.TesteHashSet
+Set/ExemploTreeSet.java
+ Set.ExemploTreeSet
+Set/DesafioSet.java
+ Set.DesafioSet
