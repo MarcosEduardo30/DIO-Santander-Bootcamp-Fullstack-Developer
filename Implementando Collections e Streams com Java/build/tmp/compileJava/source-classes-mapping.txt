@@ -18,3 +18,13 @@ Set/ExemploTreeSet.java
  Set.ExemploTreeSet
 Set/DesafioSet.java
  Set.DesafioSet
+Maps/TesteHashMap.java
+ Maps.TesteHashMap
+Maps/TesteTreeMap.java
+ Maps.TesteTreeMap
+Maps/TesteHashTable.java
+ Maps.TesteHashTable
+Maps/EstadosBrasil.java
+ Maps.EstadosBrasil
+Maps/DesafioMaps.java
+ Maps.DesafioMaps
