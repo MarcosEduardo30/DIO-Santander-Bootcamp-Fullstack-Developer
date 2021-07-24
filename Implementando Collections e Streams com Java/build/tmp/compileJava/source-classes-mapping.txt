@@ -1,30 +1,42 @@
-List/Lista.java
- List.Lista
-List/NavegacaoLista.java
- List.NavegacaoLista
-List/Vetor.java
- List.Vetor
 List/DesafioLista.java
  List.DesafioLista
+Maps/TesteHashTable.java
+ Maps.TesteHashTable
+Comparators/EstudandeRegraAlternativa.java
+ Comparators.EstudandeRegraAlternativa
+Set/ExemploTreeSet.java
+ Set.ExemploTreeSet
+Set/TesteLinkedHashSet.java
+ Set.TesteLinkedHashSet
+List/Vetor.java
+ List.Vetor
+Comparators/TesteComparators.java
+ Comparators.TesteComparators
+Comparators/ContaBanco.java
+ Comparators.ContaBanco
+Set/TesteHashSet.java
+ Set.TesteHashSet
+Maps/DesafioMaps.java
+ Maps.DesafioMaps
+Maps/TesteTreeMap.java
+ Maps.TesteTreeMap
+Maps/EstadosBrasil.java
+ Maps.EstadosBrasil
+Comparators/Estudante.java
+ Comparators.Estudante
+Maps/TesteHashMap.java
+ Maps.TesteHashMap
+List/NavegacaoLista.java
+ List.NavegacaoLista
+Set/DesafioSet.java
+ Set.DesafioSet
+List/Lista.java
+ List.Lista
 Queue/TesteLikendList.java
  Queue.TesteLikendList
 Queue/DesafioQueue.java
  Queue.DesafioQueue
-Set/TesteLinkedHashSet.java
- Set.TesteLinkedHashSet
-Set/TesteHashSet.java
- Set.TesteHashSet
-Set/ExemploTreeSet.java
- Set.ExemploTreeSet
-Set/DesafioSet.java
- Set.DesafioSet
-Maps/TesteHashMap.java
- Maps.TesteHashMap
-Maps/TesteTreeMap.java
- Maps.TesteTreeMap
-Maps/TesteHashTable.java
- Maps.TesteHashTable
-Maps/EstadosBrasil.java
- Maps.EstadosBrasil
-Maps/DesafioMaps.java
- Maps.DesafioMaps
+Comparators/OrdenacaoBanco.java
+ Comparators.OrdenacaoBanco
+Comparators/DesafioComparators.java
+ Comparators.DesafioComparators
