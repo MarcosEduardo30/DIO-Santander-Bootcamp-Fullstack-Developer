@@ -40,3 +40,9 @@ Comparators/OrdenacaoBanco.java
  Comparators.OrdenacaoBanco
 Comparators/DesafioComparators.java
  Comparators.DesafioComparators
+Optionals/TesteOptionals.java
+ Optionals.TesteOptionals
+Optionals/TesteOptionalsMetodos.java
+ Optionals.TesteOptionalsMetodos
+Optionals/DesafioOptionals.java
+ Optionals.DesafioOptionals
