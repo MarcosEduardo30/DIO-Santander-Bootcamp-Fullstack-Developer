@@ -46,3 +46,9 @@ Optionals/TesteOptionalsMetodos.java
  Optionals.TesteOptionalsMetodos
 Optionals/DesafioOptionals.java
  Optionals.DesafioOptionals
+Streams/TesteStream.java
+ Streams.TesteStream
+Streams/Estudante.java
+ Streams.Estudante
+Streams/DesafioStream.java
+ Streams.DesafioStream
